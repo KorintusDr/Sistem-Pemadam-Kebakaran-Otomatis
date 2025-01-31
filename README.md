@@ -17,9 +17,6 @@ Proyek ini adalah **sistem pemadam kebakaran** menggunakan **ESP8266 NodeMCU**, 
 - **Adaptor Daya (5V/12V) atau Baterai**
 - **Kabel Jumper & Breadboard**
 
-## 📝 Diagram Rangkaian
-![Diagram Rangkaian](A_detailed_schematic_diagram_of_a_fire_suppression.png)
-
 ## 📜 Instalasi & Pengaturan
 ### 1️⃣ Prasyarat
 Pastikan Anda telah menginstal:
@@ -61,6 +58,3 @@ Pastikan Anda telah menginstal:
    - 🚰 **Pompa air akan menyala**.
    - 📩 **Notifikasi Telegram akan dikirim**.
 4. Sistem akan kembali memantau setelah kondisi normal.
-
-## 📧 Kontak & Dukungan
-Jika ada masalah atau ingin berkontribusi, silakan ajukan **Issue** di repositori ini! 🚀
